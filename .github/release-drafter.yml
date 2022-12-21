@@ -29,3 +29,4 @@ version-resolver:
 template: |
   ## Changes
   $CHANGES
+  
